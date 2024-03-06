@@ -373,6 +373,15 @@ border-bottom: 1px solid #ccc;
     height: 40px;
 }
 
+
+/*fotos del images 2 container-hombre*/
+.imagen1_img, .imagen2_img, .imagen3_img {
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+
+}
 /*estilo del menú del hombre*/
 .funciones-hombre {
   background-color: rgba(38, 20, 83, 0.892);
