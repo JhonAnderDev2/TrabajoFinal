@@ -365,6 +365,28 @@ border-bottom: 1px solid #ccc;
   margin-top: 5%;
 }
 
+/*fotos del images 1 container-hombre*/
+.pincel-img, .enlace-img, .imagen-img {
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+}
+
+/*estilo del menú del hombre*/
+.funciones-hombre {
+  background-color: rgba(38, 20, 83, 0.892);
+  margin-left: 30px;
+  border-radius: 1em;
+  color: aliceblue;
+  text-align: center;
+  width: 80%;
+}
+
+/*cuadro de texto*/
+input {
+  background-color: rgba(38, 20, 83, 0.892);
+}
 
 /* botones flotantes */
 
