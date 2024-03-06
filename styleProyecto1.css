@@ -140,7 +140,7 @@ border-bottom: 1px solid #ccc;
 }
 
 .column-curriculo{
-  width: 14%;
+  width: 16%;
   background-color: #04054d;
   padding-left: 0%;
   padding-right: 0%;
@@ -278,7 +278,7 @@ border-bottom: 1px solid #ccc;
   .info-General{
     display:inline-block;
     background-color: #dadce5;
-    width: 74.5%;
+    width: 100%;
     vertical-align: top;
   }
   .info-Curso{
@@ -496,4 +496,17 @@ border-bottom: 1px solid #ccc;
  .margen{
   margin-left: 30%;
  }
+/***
+Desplegable donde se ajusta el about, head, menu
+***/
+.menu{
+  display: flex;
+  width: 90%;
 
+  background-color: #04054d;
+  color: #ccc;
+  padding-top: 6px;
+  margin: 5px;
+  align-content: center;
+  align-items: center;
+}
